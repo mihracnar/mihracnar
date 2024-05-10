@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am an Urban Planner. 
-I have some knowledge of Geographic Information Systems (GIS) and would like to focus on Web GIS and Data Analytics.
+I am an Urban Planner.
+I have some knowledge about Geographic Information Systems (GIS) and I am working in the field of Spatial Data Analytics.
